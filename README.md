@@ -12,7 +12,9 @@ Project is created with
   6. Opencv-python 4.6.0.66
   7. PyCharm IDE
 ## Installation:
-Set the project as current working directory. Activate a conda environment with Python 3.10
+ `git clone https://github.com/siennatariman/image-classification-cnn.git`
+ 
+ Set the project as current working directory. Activate a conda environment with Python 3.10
 
 ### Summary:
 |                       | 20K training images & 40k testing images            | 60k training images & 120k testing images |
